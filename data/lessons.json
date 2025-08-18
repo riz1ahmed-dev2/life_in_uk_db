@@ -1,0 +1,59 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "chapter_id": 1,
+      "title": "The values and principles of the UK",
+      "icon": "assets/icons/values.png",
+      "content": "Learn about fundamental British values, including democracy, the rule of law, individual liberty, and mutual respect and tolerance of different faiths and beliefs. This chapter covers the core principles that form the foundation of British society.",
+      "created_date": "2025-08-19T10:00:00Z",
+      "modified_date": "2025-08-19T10:00:00Z",
+      "weight": 1,
+      "extra": "{\"key_points\":[\"Democracy\",\"Rule of law\",\"Individual liberty\"]}"
+    },
+    {
+      "id": 2,
+      "chapter_id": 1,
+      "title": "What is the UK?",
+      "icon": "assets/icons/uk_map.png",
+      "content": "Understanding the United Kingdom's composition, including England, Scotland, Wales, and Northern Ireland. Learn about British overseas territories and the Commonwealth's role in modern Britain.",
+      "created_date": "2025-08-19T10:00:00Z",
+      "modified_date": "2025-08-19T10:00:00Z",
+      "weight": 2,
+      "extra": "{\"key_points\":[\"Four nations\",\"Overseas territories\",\"Commonwealth\"]}"
+    },
+    {
+      "id": 3,
+      "chapter_id": 2,
+      "title": "A Long and Illustrious History",
+      "icon": "assets/icons/history.png",
+      "content": "Explore Britain's rich history from ancient times to the modern day, including key periods such as Roman Britain, the Middle Ages, and the Tudor and Stuart periods.",
+      "created_date": "2025-08-19T10:00:00Z",
+      "modified_date": "2025-08-19T10:00:00Z",
+      "weight": 3,
+      "extra": "{\"key_points\":[\"Ancient Britain\",\"Medieval period\",\"Tudor era\"]}"
+    },
+    {
+      "id": 4,
+      "chapter_id": 2,
+      "title": "Modern Britain",
+      "icon": "assets/icons/modern.png",
+      "content": "Understanding contemporary British society and culture, including population demographics, migration patterns, economic factors, and cultural contributions.",
+      "created_date": "2025-08-19T10:00:00Z",
+      "modified_date": "2025-08-19T10:00:00Z",
+      "weight": 4,
+      "extra": "{\"key_points\":[\"Demographics\",\"Economy\",\"Culture\"]}"
+    },
+    {
+      "id": 5,
+      "chapter_id": 3,
+      "title": "The UK Government",
+      "icon": "assets/icons/government.png",
+      "content": "Learn about the UK's system of government, including Parliament, elections, the role of the monarchy, and how local government works.",
+      "created_date": "2025-08-19T10:00:00Z",
+      "modified_date": "2025-08-19T10:00:00Z",
+      "weight": 5,
+      "extra": "{\"key_points\":[\"Parliament\",\"Monarchy\",\"Local government\"]}"
+    }
+  ]
+}

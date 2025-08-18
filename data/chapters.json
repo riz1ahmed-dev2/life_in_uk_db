@@ -1,0 +1,49 @@
+{
+  "chapters": [
+    {
+      "id": 1,
+      "title": "The Making of the United Kingdom",
+      "icon": "uk_flag.png",
+      "created_date": "2024-01-10",
+      "modified_date": "2024-06-15",
+      "weight": 1,
+      "extra": "Overview of the formation of the UK."
+    },
+    {
+      "id": 2,
+      "title": "A Long and Illustrious History",
+      "icon": "history.png",
+      "created_date": "2024-01-12",
+      "modified_date": "2024-06-16",
+      "weight": 2,
+      "extra": "Key historical events and figures."
+    },
+    {
+      "id": 3,
+      "title": "Modern UK Society",
+      "icon": "society.png",
+      "created_date": "2024-01-15",
+      "modified_date": "2024-06-17",
+      "weight": 3,
+      "extra": "Social structure and values."
+    },
+    {
+      "id": 4,
+      "title": "The UK Government",
+      "icon": "government.png",
+      "created_date": "2024-01-18",
+      "modified_date": "2024-06-18",
+      "weight": 4,
+      "extra": "How the UK is governed."
+    },
+    {
+      "id": 5,
+      "title": "Your Role in the UK",
+      "icon": "role.png",
+      "created_date": "2024-01-20",
+      "modified_date": "2024-06-19",
+      "weight": 5,
+      "extra": "Citizenship and responsibilities."
+    }
+  ]
+}
