@@ -1,76 +1,49 @@
 {
-  "chapters": [
+  "life_in_uk": [
     {
-      "id": 1,
-      "title": "Life in UK Test",
-      "icon": "1_life_in_uk_test.png",
-      "weight": 10,
-      "extra": "Introduction to the Life in the UK test and what to expect",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
+      "id": 1001,
+      "title": "The values and principles of the UK",
+      "icon": "http://flaticon.com/h.png",
+      "weight": 1002,
+      "extra": null,
+      "created_date": "2025-08-31T18:55:59Z",
+      "modified_date": "2025-08-31T18:59:10Z"
     },
     {
-      "id": 2,
-      "title": "Values and Responsibilities",
-      "icon": "2_values_and_responsibilities.png",
-      "weight": 20,
-      "extra": "Understanding British values and citizen responsibilities",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
+      "id": 1002,
+      "title": "What is the UK?",
+      "icon": "https://drive.google.com/file/d/1d4U3Kl0njGFmAiWux43b5IZXFQGE9BWS/view?usp=drive_link",
+      "weight": null,
+      "extra": null,
+      "created_date": null,
+      "modified_date": null
     },
     {
-      "id": 3,
-      "title": "Early Britain",
-      "icon": "3_early_britain.png",
-      "weight": 30,
-      "extra": "History of Britain from ancient times to the Middle Ages",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
+      "id": 1003,
+      "title": " A long and illustrious history",
+      "icon": "https://drive.google.com/file/d/1zP3jazFmq4fM7cguXoW9CPJh98UZc2MR/view?usp=drive_link",
+      "weight": null,
+      "extra": null,
+      "created_date": null,
+      "modified_date": null
     },
     {
-      "id": 4,
-      "title": "A Growing Nation",
-      "icon": "4_a_growing_nation.png",
-      "weight": 40,
-      "extra": "The development of Britain as a nation through the centuries",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
+      "id": 1004,
+      "title": "A modern, thriving society",
+      "icon": "https://drive.google.com/file/d/12yaVP0emBdQaLmeooO1tu_EzWYK2d71O/view?usp=drive_link",
+      "weight": null,
+      "extra": null,
+      "created_date": null,
+      "modified_date": null
     },
     {
-      "id": 5,
-      "title": "Who We Are",
-      "icon": "5_who_we_are.png",
-      "weight": 50,
-      "extra": "British identity, culture, and demographics",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
-    },
-    {
-      "id": 6,
-      "title": "Who We Are 2",
-      "icon": "8_who_we_are_2.png",
-      "weight": 60,
-      "extra": "Further exploration of British culture and society",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
-    },
-    {
-      "id": 7,
-      "title": "The Government",
-      "icon": "9_the_government.png",
-      "weight": 70,
-      "extra": "British political system and how the government works",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
-    },
-    {
-      "id": 8,
-      "title": "The Law",
-      "icon": "10_the_law.png",
-      "weight": 80,
-      "extra": "Legal system in the UK and your rights and responsibilities",
-      "created_date": "2025-01-01T00:00:00Z",
-      "modified_date": "2025-08-24T00:00:00Z"
+      "id": 1005,
+      "title": "The UK government, the law and your role",
+      "icon": "https://drive.google.com/file/d/1Su7VIPbV07JveTtBPhSNosPelgMosOnS/view?usp=drive_link",
+      "weight": null,
+      "extra": null,
+      "created_date": null,
+      "modified_date": null
     }
   ]
 }
