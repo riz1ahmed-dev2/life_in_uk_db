@@ -16,7 +16,7 @@
       "correct_option": "B,C",
       "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -37,7 +37,7 @@
       "correct_option": "C",
       "explanation": "Driving a car is NOT one of the fundamental principles of British life",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -58,7 +58,7 @@
       "correct_option": "C",
       "explanation": "To apply to become a permanent resident or citizen of the UK, you will need to: speak and read English; have a good understanding of life in the UK.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -79,7 +79,7 @@
       "correct_option": "C",
       "explanation": "The rule of law is one of the fundamental principles of British Life.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -100,7 +100,7 @@
       "correct_option": "C",
       "explanation": "In return, the UK offers: freedom of belief and religion, freedom of speech, freedom from unfair discrimination, a right to a fair trial, a right to join in the election of a government.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -121,7 +121,7 @@
       "correct_option": "A",
       "explanation": "The United Kingdom consists of Wales,England,Scotland and Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -142,7 +142,7 @@
       "correct_option": "D",
       "explanation": "Scottish flag has a white cross on a blue background because St Andrew was the Patron Saint of Scotland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -163,7 +163,7 @@
       "correct_option": "D",
       "explanation": "London is the capital city of England and the United Kingdom.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -184,7 +184,7 @@
       "correct_option": "D",
       "explanation": "Great Britain consists of 3 countries: England, Wales and Scotland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -205,7 +205,7 @@
       "correct_option": "B",
       "explanation": "The Channel Islands and the Isle of Man are closely related to the UK but are not part of it. They have their own governments and are called 'Crown dependencies'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -226,7 +226,7 @@
       "correct_option": "C",
       "explanation": "Around 4,000 years ago, people learned to make bronze",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -247,7 +247,7 @@
       "correct_option": "C",
       "explanation": "World Wide Web was invented by Sir Tim Berners-Lee (1955-) who is British. Information was successfully transferred via the web for the first time on 25 December 1990.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -268,7 +268,7 @@
       "correct_option": "C",
       "explanation": "The first farmers came to Britain 6,000 years ago. The ancestors of these first farmers probably came from south-east Europe.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -289,7 +289,7 @@
       "correct_option": "B",
       "explanation": "Britain had been a republic for 11 years.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -310,7 +310,7 @@
       "correct_option": "D",
       "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -331,7 +331,7 @@
       "correct_option": "B",
       "explanation": "Captain James Cook mapped the coast of Australia.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -352,7 +352,7 @@
       "correct_option": "A",
       "explanation": "Their language was part of the Celtic language family.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -373,7 +373,7 @@
       "correct_option": "A",
       "explanation": "The first farmers built houses, tombs and monuments on the land.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -394,7 +394,7 @@
       "correct_option": "A",
       "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -415,7 +415,7 @@
       "correct_option": "A",
       "explanation": "Christopher Wren designed a new St Paul Cathedral after the previous one was destroyed by a great fire in 1666.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -436,7 +436,7 @@
       "correct_option": "A",
       "explanation": "Many parts of the countryside and places of interest are kept open by the National Trust. It aims to preserve important buildings, coastline and countryside in the UK. The National Trust was founded in 1895 by three volunteers. There are now more than 61,000 volunteers helping to keep the organisation running.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -457,7 +457,7 @@
       "correct_option": "A",
       "explanation": "Explanation:\r\nSt David's day is on the 1st of March. He is a Patron St of Wales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -478,7 +478,7 @@
       "correct_option": "A",
       "explanation": "Christmas Day is on the 25th of December. Christmas Eve is the day before that which is the 24th of December.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -499,7 +499,7 @@
       "correct_option": "A",
       "explanation": "Mo Farah was the first British runner to win the gold medal in the 10 km",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -520,7 +520,7 @@
       "correct_option": "A",
       "explanation": "Queen Elizabeth II reigned since her father's death in 1952, (she celebrated her Diamond Jubilee i.e. 60 years as queen) until she passed away in 2022. She was married to Prince Philip, the Duke of Edinburgh. Her eldest son, King Charles III (previously known as the Prince of Wales) became the sovereign monarch in 2022. His eldest son, heir to the throne, Prince William is the new Prince of Wales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -541,7 +541,7 @@
       "correct_option": "C",
       "explanation": "The Monarch has important ceremonial roles, such as the opening of the new parliamentary session each year.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -562,7 +562,7 @@
       "correct_option": "C",
       "explanation": "The official home of the Prime Minister is 10 Downing Street, in central London, near the Houses of Parliament.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -583,7 +583,7 @@
       "correct_option": "B",
       "explanation": "\r\nMore serious civil cases - for example, when a large amount of compensation is being claimed - are dealt with in the High Court in England, Wales and Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -604,7 +604,7 @@
       "correct_option": "B",
       "explanation": "If your driving licence is from a country in the European Union (EU), Iceland, Liechtenstein or Norway, you can drive in the UK for as long as your licence is valid, subject to UK licence renewal requirements (at the age of 70, or three years after the driver becomes resident). If you have a licence from any other country, you may use it in the UK for up to 12 months",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -625,7 +625,7 @@
       "correct_option": "B",
       "explanation": "If an MP dies or resigns, there will be a fresh election, called a by-election, in his or her constituency.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -646,7 +646,7 @@
       "correct_option": "D",
       "explanation": "Hitler invaded Poland and took control of Belgium and the Netherlands. At this time of national crisis, Winston Churchill became Prime Minister.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -667,7 +667,7 @@
       "correct_option": "D",
       "explanation": "One third of the population of England and a similar proportion in Scotland and Wales died because of the Black Death.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -688,7 +688,7 @@
       "correct_option": "D",
       "explanation": "David Hume's ideas about human nature continue to influence philosophers.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -709,7 +709,7 @@
       "correct_option": "A",
       "explanation": "Ireland became two countries in 1922.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -730,7 +730,7 @@
       "correct_option": "C",
       "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's vastly outnumbered English army defeated the French. The English left France in the 1450s.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -751,7 +751,7 @@
       "correct_option": "B",
       "explanation": "People lived in roundhouses and buried their dead in tombs called round barrows.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -772,7 +772,7 @@
       "correct_option": "B",
       "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -793,7 +793,7 @@
       "correct_option": "B",
       "explanation": "People came to England from abroad to trade and also to work. Engineers came from Germany.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -814,7 +814,7 @@
       "correct_option": "B",
       "explanation": "Sir Francis Drake, one of the commanders in the defeat of the Spanish Armada, was one of the founders of England's naval tradition. His ship (The Golden Hind) was one of the first to sail around the world.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -835,7 +835,7 @@
       "correct_option": "B",
       "explanation": "The nobility, great landowners and bishops sat in the House of Lords.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -856,7 +856,7 @@
       "correct_option": "A",
       "explanation": "The Tower of London was built by William the Conqueror after he became king in 1066.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -877,7 +877,7 @@
       "correct_option": "A",
       "explanation": "The Romans remained in Britain for 400 years.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -898,7 +898,7 @@
       "correct_option": "A",
       "explanation": "The Bill of Rights, 1689, confirmed the rights of Parliament and the limits of the king's power.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -919,7 +919,7 @@
       "correct_option": "A",
       "explanation": "Queen Elizabeth I became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -940,7 +940,7 @@
       "correct_option": "A",
       "explanation": "The laws passed after the Glorious Revolution are the beginning of what is called 'constitutional monarchy'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -961,7 +961,7 @@
       "correct_option": "A",
       "explanation": "Henry VII wanted to make sure that England remained peaceful and that his position as king was secure. He deliberately strengthened the central administration of England and reduced the power of the nobles.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -982,7 +982,7 @@
       "correct_option": "A",
       "explanation": "Clement Attlee was born in London in 1883. He was Prime Minister from 1945 to 1951 and led the Labour Party for 20 years.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1003,7 +1003,7 @@
       "correct_option": "A",
       "explanation": "In the Middle Ages, Parliament began to develop into the institution it is today. Its origins can be traced to the king's council of advisers, which included important noblemen and the leaders of the Church.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1024,7 +1024,7 @@
       "correct_option": "A",
       "explanation": "Skara Brae on Orkney, off the north coast of Scotland, is the best preserved prehistoric village in northern Europe, and has helped archaeologists to understand more about how people lived near the end of the Stone Age.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1045,7 +1045,7 @@
       "correct_option": "A",
       "explanation": "Charles II escaped from Worcester, famously hiding in an oak tree on one occasion, and eventually fled to Europe.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1066,7 +1066,7 @@
       "correct_option": "C",
       "explanation": "It was during the 3rd and 4th centuries AD that the first Christian communities began to appear in Britain.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1087,7 +1087,7 @@
       "correct_option": "A",
       "explanation": "The Chartists demanded the vote for the working classes and other people without property.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1108,7 +1108,7 @@
       "correct_option": "D",
       "explanation": "The Welsh dragon is not part of the Union Flag.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1129,7 +1129,7 @@
       "correct_option": "A",
       "explanation": "Florence Nightingale was born in Italy to English parents in 1820.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1150,7 +1150,7 @@
       "correct_option": "D",
       "explanation": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1171,7 +1171,7 @@
       "correct_option": "A",
       "explanation": "The Act of Union of 1800 created the United Kingdom of Great Britain and Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1192,7 +1192,7 @@
       "correct_option": "A",
       "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1213,7 +1213,7 @@
       "correct_option": "A",
       "explanation": "The first World War began in 1914 and ended in 1918.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1234,7 +1234,7 @@
       "correct_option": "D",
       "explanation": "Grimsby and Scunthorpe are the examples of words that come from the Viking languages.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1255,7 +1255,7 @@
       "correct_option": "C",
       "explanation": "West Germany, France, Belgium, Italy, Luxembourg and the Netherlands formed the European Economic Community (EEC) in 1957. At first the UK did not wish to join the EEC but it eventually did so in 1973.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1276,7 +1276,7 @@
       "correct_option": "A",
       "explanation": "The Proms is an eight-week summer season of classical music (orchestral or solo instrumental and nowadays may feature non-classical music) that takes place in various venues, including the Royal Albert Hall in London.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1297,7 +1297,7 @@
       "correct_option": "A",
       "explanation": "Parts of Hadrian's Wall, including the forts of Housesteads and Vindolanda, can still be seen. It is a popular area for walkers and is a UNESCO (United Nations Education, Scientific and Cultural Organization) World Heritage Site.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1318,7 +1318,7 @@
       "correct_option": "C",
       "explanation": "Henry Purcell (1659-95) was the organist at Westminster Abbey. He wrote church music and operas.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1339,7 +1339,7 @@
       "correct_option": "C",
       "explanation": "The population of the UK was 40 million in 1901.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1360,7 +1360,7 @@
       "correct_option": "C",
       "explanation": "The official Church of the state is the Church of England is called the Episcopal Church in Scotland and the United States. It is a Protestant Church.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1381,7 +1381,7 @@
       "correct_option": "B",
       "explanation": "British industry led the world in the 19th century. The UK produced more than half of the world's iron, coal and cotton cloth. The UK also became a centre for financial services, including insurance and banking. In 1851, the Great Exhibition opened in Hyde Park in the Crystal Palace, a huge building made of steel and glass. Exhibits ranged from huge machines to handmade goods. Countries from all over the world showed their goods but most of the objects were made in Britain.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1402,7 +1402,7 @@
       "correct_option": "B,C",
       "explanation": "Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1423,7 +1423,7 @@
       "correct_option": "B",
       "explanation": "A rose is the flower associated with England.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1444,7 +1444,7 @@
       "correct_option": "B",
       "explanation": "Robert Burns is a famous Scottish Poet",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1465,7 +1465,7 @@
       "correct_option": "A ",
       "explanation": "The Cenotaph can be visited in London in Whitehall.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1486,7 +1486,7 @@
       "correct_option": "A ",
       "explanation": "Roast beef, which is served with potatoes is an example of English traditional food.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1507,7 +1507,7 @@
       "correct_option": "A ",
       "explanation": "Snowdonia is a national park in North Wales. It covers an area of 838 square miles. Its most well-known landmark is Snowdon, which is the highest mountain in Wales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1528,7 +1528,7 @@
       "correct_option": "A ",
       "explanation": "The Edinburgh Festival takes place in Edinburgh, Scotland, every summer. The most well-known is the Edinburgh Festival Fringe, also known as the Fringe.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1549,7 +1549,7 @@
       "correct_option": "A ",
       "explanation": "The money from TV licences is used to pay for the British Broadcasting Corporation also known as the BBC.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1570,7 +1570,7 @@
       "correct_option": "A ",
       "explanation": "Post-war immigration means that nearly 10% of the population has a parent or grandparent born outside the UK.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1591,7 +1591,7 @@
       "correct_option": "A ",
       "explanation": "The 40 days before Easter are known as Lent.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1612,7 +1612,7 @@
       "correct_option": "D",
       "explanation": "Diwali normally falls in October or November and lasts for five days. It is often called the Festival of Lights. It is celebrated by Hindus and Sikhs. It celebrates the victory of good over evil and the gaining of knowledge. There are different stories about how the festival came about. There is a famous celebration of Diwali in Leicester.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1633,7 +1633,7 @@
       "correct_option": "A",
       "explanation": "There are theatres in most towns and cities throughout the UK, ranging from the large to the small. London's West End, also known as 'Theatreland', is particularly well known.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1654,7 +1654,7 @@
       "correct_option": "A",
       "explanation": "Christmas remains very popular in the UK. People usually spend the day at home and eat a special meal, which often includes roast turkey, Christmas pudding and mince pies.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1675,7 +1675,7 @@
       "correct_option": "C",
       "explanation": "Only Scotland and Northern Ireland have their patron saint's day as an official holiday. Events are held across Scotland, Northern Ireland and the rest of the country, especially where there are a lot of people of Scottish, Northern Irish and Irish heritage.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1696,7 +1696,7 @@
       "correct_option": "B",
       "explanation": "Since 1997, some powers have been devolved from the central government to give people in Wales, Scotland and Northern Ireland more control over matters that directly affect them. There has been a Welsh Assembly and a Scottish Parliament since 1999. There is also a Northern Ireland Assembly, although this has been suspended on a few occasions.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1717,7 +1717,7 @@
       "correct_option": "D",
       "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1738,7 +1738,7 @@
       "correct_option": "D",
       "explanation": "The small claims procedure is used for claims of less than £10,000 in England and Wales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1759,7 +1759,7 @@
       "correct_option": "D",
       "explanation": "This system that deducts tax automatically is called 'Pay As You Earn', also known as PAYE.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1780,7 +1780,7 @@
       "correct_option": "D",
       "explanation": "MPs are elected at a General Election, which is held at least every five years.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1801,7 +1801,7 @@
       "correct_option": "C",
       "explanation": "A Police officer will tell you the reason for your arrest and you will be able to seek legal advice.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1822,7 +1822,7 @@
       "correct_option": "C",
       "explanation": "The National Anthem of the UK is 'God Save the King/Queen'. It is played at important national occasions and at events attended by the King/Queen or the Royal Family. The first verse is: 'God save our gracious King! Long live our noble King! God save the King! Send him victorious, Happy and glorious, Long to reign over us, God save the King!'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1843,7 +1843,7 @@
       "correct_option": "D",
       "explanation": "Secretaries of State are responsible for subjects such as education, health and defence.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1864,7 +1864,7 @@
       "correct_option": "A",
       "explanation": "Proceedings in Parliament are broadcast on television and published in official reports called Hansard.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1885,7 +1885,7 @@
       "correct_option": "A",
       "explanation": "The National Society for the Prevention of Cruelty to Children (NSPCC) works with children.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1906,7 +1906,7 @@
       "correct_option": "D",
       "explanation": "Judges, who are together called 'the judiciary', are responsible for interpreting the law and ensuring that trials are conducted fairly.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1927,7 +1927,7 @@
       "correct_option": "A",
       "explanation": "The Northern Ireland Assembly was established soon after the Belfast Agreement (or Good Friday Agreement) in 1998. There is a power-sharing agreement which distributes ministerial Offices amongst the main parties. The Assembly has 90 elected members (reduced from 108 in 2016), known as MLAs (members of the Legislative Assembly). They are elected with a form of proportional representation. The Assembly is chaired by a Speaker and three deputy Speakers. At least 10 members (including the Speaker) must be present in order for a vote to be taken on any matter.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1948,7 +1948,7 @@
       "correct_option": "A",
       "explanation": "The British constitution is not written down in any single document, and therefore it is described as 'unwritten'. This is mainly because the UK, unlike America or France, has never had a revolution which led permanently to a totally new system of government.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1969,7 +1969,7 @@
       "correct_option": "A",
       "explanation": "In England, Wales and Northern Ireland a jury has 12 members, and in Scotland a jury has 15 members.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -1990,7 +1990,7 @@
       "correct_option": "D",
       "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2011,7 +2011,7 @@
       "correct_option": "D",
       "explanation": "Selling or buying drugs such as heroin, cocaine, ecstasy and cannabis is illegal in the UK.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2032,7 +2032,7 @@
       "correct_option": "A",
       "explanation": "There are many opportunities for young people to volunteer and receive accreditation which will help them to develop their skills. These include the National Citizen Service programme, which gives 16- and 17-year-olds the opportunity to enjoy outdoor activities, develop their skills and take part in a community project",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2053,7 +2053,7 @@
       "correct_option": "D",
       "explanation": "Charles Edward Stuart (Bonnie Prince Charlie), the grandson of James II, landed in Scotland. He was supported by clansmen from the Scottish highlands and raised an army.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2074,7 +2074,7 @@
       "correct_option": "C",
       "explanation": "Flowing from the fundamental principles are responsibilities and freedoms which are shared by all those living in the UK and which we expect all residents to respect. If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law; respect the rights of others, including their right to their own opinions; treat others with fairness; look after yourself and your family; look after the area in which you live and the environment.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2095,7 +2095,7 @@
       "correct_option": "B",
       "explanation": "The statement is true",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2116,7 +2116,7 @@
       "correct_option": "B",
       "explanation": "The statement is tru",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2137,7 +2137,7 @@
       "correct_option": "C",
       "explanation": "The fundamental principles of British life include: Democracy; The rule of law; Individual liberty; Tolerance of those with different faiths and beliefs; Participation in community life.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2158,7 +2158,7 @@
       "correct_option": "B",
       "explanation": "If you don't respect the law you should not expect to be allowed to settle in the UK",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2179,7 +2179,7 @@
       "correct_option": "B,C",
       "explanation": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2200,7 +2200,7 @@
       "correct_option": "A",
       "explanation": "During Charles II's reign, in 1665, there was a major outbreak of plague in London. Thousands of people died, especially in poorer areas. The following year, a great fire destroyed much of the city, including many churches and St Paul's Cathedral.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2221,7 +2221,7 @@
       "correct_option": "C,D",
       "explanation": "In order to apply for ILR or Naturalization as a British Citizen you must have a valid life in the UK pass certificate and good knowledge of English language",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2242,7 +2242,7 @@
       "correct_option": "B,C",
       "explanation": "You should accept all responsibilities that come with permanent residency and fundamental principles of British life",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2263,7 +2263,7 @@
       "correct_option": "D",
       "explanation": "The fundamental principles of British life include: Democracy; The rule of law; Individual liberty; Tolerance of those with different faiths and beliefs; Participation in community life.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2284,7 +2284,7 @@
       "correct_option": "B,C",
       "explanation": "Although Britain is one of the world's most diverse societies, there is a set of shared values and responsibilities that everyone can agree with. These values and responsibilities include: to obey and respect the law; to be aware of the rights of others and respect those rights; to treat others with fairness; to behave responsibly; to help and protect your family; to respect and preserve the environment; to treat everyone equally, regardless of sex, race, religion, age, disability, class or sexual orientation; to work to provide for yourself and your family; to help others; to vote in local and national government elections.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2305,7 +2305,7 @@
       "correct_option": "C",
       "explanation": "Flowing from the fundamental principles are responsibilities and freedoms which are shared by all those living in the UK and which we expect all residents to respect. If you wish to be a permanent resident or citizen of the UK, you should: respect and obey the law; respect the rights of others, including their right to their own opinions; treat others with fairness; look after yourself and your family; look after the area in which you live and the environment.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2326,7 +2326,7 @@
       "correct_option": "B",
       "explanation": "The UK is governed by the parliament sitting in Westminster.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2347,7 +2347,7 @@
       "correct_option": "B",
       "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2368,7 +2368,7 @@
       "correct_option": "B",
       "explanation": "There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2389,7 +2389,7 @@
       "correct_option": "A,D",
       "explanation": "The UK is made up of England, Scotland, Wales and Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2410,7 +2410,7 @@
       "correct_option": "A",
       "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2431,7 +2431,7 @@
       "correct_option": "B",
       "explanation": "The official name of the country is the United Kingdom of Great Britain and Northern Ireland. 'Great Britain' refers only to England, Scotland and Wales, not to Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2452,7 +2452,7 @@
       "correct_option": "B",
       "explanation": "You are not guaranteed a job if you settle in the UK.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2473,7 +2473,7 @@
       "correct_option": "A",
       "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2494,7 +2494,7 @@
       "correct_option": "C",
       "explanation": "The UK is located in the North West of Europe.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2515,7 +2515,7 @@
       "correct_option": "B",
       "explanation": "The UK is located in the North-West of Europe.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2536,7 +2536,7 @@
       "correct_option": "C",
       "explanation": "There are also several islands which are closely linked with the UK but are not part of it: the Channel Islands and the Isle of Man. These have their own governments and are called 'Crown dependencies'. There are also several British overseas territories in other parts of the world, such as St Helena and the Falkland Islands. They are also linked to the UK but are not a part of it.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2557,7 +2557,7 @@
       "correct_option": "C",
       "explanation": "The United Kingdom consists of Wales,England,Scotland and Northern Ireland.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2578,7 +2578,7 @@
       "correct_option": "B",
       "explanation": "The first formal anti-slavery groups were set up by the Quakers in the late 1700s, and they petitioned Parliament to ban the practice.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2599,7 +2599,7 @@
       "correct_option": "D",
       "explanation": "In May 2010, and for the first time in the UK since February 1974, no political party won an overall majority in the General Election. The Conservative and Liberal Democrat parties formed a coalition and the leader of the Conservative Party, David Cameron, became Prime Minister.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2620,7 +2620,7 @@
       "correct_option": "B",
       "explanation": "One achievement of King James' reign was a new translation of the Bible into English. This translation is known as the 'King James Version' or the 'Authorised Version'. It was not the first English Bible but is a version which continues to be used in many Protestant churches today.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2641,7 +2641,7 @@
       "correct_option": "B",
       "explanation": "Scotland had also been strongly influenced by Protestant ideas. In 1560, the predominantly Protestant Scottish Parliament abolished the authority of the Pope in Scotland and Roman Catholic religious services became illegal.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2662,7 +2662,7 @@
       "correct_option": "B",
       "explanation": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni in what is now eastern England. She is still remembered today and there is a statue of her on Westminster Bridge in London, near the Houses of Parliament.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2683,7 +2683,7 @@
       "correct_option": "B",
       "explanation": "In the years leading up to 1400, Geoffrey Chaucer wrote a series of poems in English about a group of people going to Canterbury on a pilgrimage. The people decided to tell each other stories on the journey, and the poems describe the travellers and some of the stories they told. This collection of poems is called The Canterbury Tales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2704,7 +2704,7 @@
       "correct_option": "B",
       "explanation": "In the 19th century, many people in Ireland depended on potatoes as a large part of their diet. In the middle of the century the potato crop failed, and Ireland suffered a famine. A million people died from disease and starvation.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2725,7 +2725,7 @@
       "correct_option": "A",
       "explanation": "The Roman army left Britain in AD 410 to defend other parts of the Roman Empire and never returned. Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2746,7 +2746,7 @@
       "correct_option": "A",
       "explanation": "From 1695, newspapers were allowed to operate without a government licence. Increasing numbers of newspapers began to be published.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2767,7 +2767,7 @@
       "correct_option": "A",
       "explanation": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as 'D-Day').",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2788,7 +2788,7 @@
       "correct_option": "A",
       "explanation": "The Anglo-Saxon kingdoms in England united under King Alfred the Great, who defeated the Vikings. Many of the Viking invaders stayed in Britain - especially in the east and north of England, in an area known as the Danelaw (many places names there, such as Grimsby and Scunthorpe, come from the Viking languages).",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2809,7 +2809,7 @@
       "correct_option": "D",
       "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2830,7 +2830,7 @@
       "correct_option": "A",
       "explanation": "By the middle of the 15th century the last Welsh rebellions had been defeated. English laws and the English language were introduced.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2851,7 +2851,7 @@
       "correct_option": "A",
       "explanation": "Mahomet and his wife also introduced 'shampooing', the Indian art of head massage, to Britain.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2872,7 +2872,7 @@
       "correct_option": "A",
       "explanation": "In 1348, a disease, probably a form of plague, came to Britain. This was known as the Black Death. One third of the population of England died and a similar proportion in Scotland and Wales.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2893,7 +2893,7 @@
       "correct_option": "A",
       "explanation": "Scientific discoveries, such as James Watt's work on steam power, helped the progress of the Industrial Revolution.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2914,7 +2914,7 @@
       "correct_option": "A",
       "explanation": "In 1776, 13 American colonies declared their independence, stating that people had a right to establish their own governments. The colonists eventually defeated the British army and Britain recognised the colonies' independence in 1783.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2935,7 +2935,7 @@
       "correct_option": "D",
       "explanation": "The Blitz was the German air force bombing London and other British cities at night-time. The phrase 'the Blitz spirit' is still used today to describe Britons pulling together in the face of adversity.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2956,7 +2956,7 @@
       "correct_option": "D",
       "explanation": "The Romans remained in Britain for 400 years. They built roads and public buildings, created a structure of law, and introduced new plants and animals.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2977,7 +2977,7 @@
       "correct_option": "D",
       "explanation": "The first Danish King was Cnut, also called Canute.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -2998,7 +2998,7 @@
       "correct_option": "B",
       "explanation": "The period after the Norman Conquest up until about 1485 is called the Middle Ages or the medieval period. It was a time of almost constant war.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3019,7 +3019,7 @@
       "correct_option": "B",
       "explanation": "Emmeline Pankhurst was born in Manchester in 1858. She set up the Women's Franchise League in 1889, which fought to get the vote in local elections for married women. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3040,7 +3040,7 @@
       "correct_option": "B",
       "explanation": "Margaret Thatcher, Britain's first woman Prime Minister, led the Conservative government from 1979 to 1990.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3061,7 +3061,7 @@
       "correct_option": "B",
       "explanation": "The Battle of Hastings is commemorated in a great piece of embroidery, known as the Bayeux Tapestry which is 70 meters long.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3082,7 +3082,7 @@
       "correct_option": "A",
       "explanation": "Corn Laws in 1846 had prevented the import of cheap grain",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3103,7 +3103,7 @@
       "correct_option": "A",
       "explanation": "The first people to live in Britain were hunter-gatherers, in what we call the Stone Age.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3124,7 +3124,7 @@
       "correct_option": "C",
       "explanation": "Elizabeth became one of the most popular monarchs in English history, particularly after 1588, when the English defeated the Spanish Armada (a large fleet of ships), which had been sent by Spain to conquer England and restore Catholicism.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3145,7 +3145,7 @@
       "correct_option": "B",
       "explanation": "Working conditions during the Industrial Revolution were very poor. There were no laws to protect employees, who were often forced to work long hours in dangerous situations. Children also worked and were treated in the same way as adults.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3166,7 +3166,7 @@
       "correct_option": "C",
       "explanation": "Britain only became permanently separated from the continent by the Channel about 10,000 years ago.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3187,7 +3187,7 @@
       "correct_option": "C",
       "explanation": "Anne Boleyn was English. She and Henry had one daughter, Elizabeth. Anne was unpopular in the country and was accused of taking lovers. She was executed at the Tower of London. Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3208,7 +3208,7 @@
       "correct_option": "C",
       "explanation": "The Iron Age people made the first coins to be minted in Britain, some inscribed with the names of Iron Age kings.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3229,7 +3229,7 @@
       "correct_option": "C",
       "explanation": "The burial place of one of the kings was at Sutton Hoo in modern Suffolk. This king was buried with treasure and armour, all placed in a ship which was then covered by a mound of earth. Scotland and Wales remained free of Anglo Saxon rule.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3250,7 +3250,7 @@
       "correct_option": "C",
       "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today. Habeas corpus is Latin for 'you must present the person in court'. The Act guaranteed that no one could be held prisoner unlawfully. Every prisoner has a right to a court hearing.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3271,7 +3271,7 @@
       "correct_option": "B",
       "explanation": "By 1400, in England, official documents were being written in English, and English had become the preferred language of the royal court and Parliament.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3292,7 +3292,7 @@
       "correct_option": "B",
       "explanation": "During the Victorian period, the British Empire grew to cover all of India, Australia and large parts of Africa. It became the largest empire the world has ever seen, with an estimated population of more than 400 million people.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3313,7 +3313,7 @@
       "correct_option": "A",
       "explanation": "Mary was a devout Catholic and persecuted Protestants.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3334,7 +3334,7 @@
       "correct_option": "D",
       "explanation": "In the middle ages the Scottish Parliament had three Houses, called Estates: the lords, the commons and the clergy.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3355,7 +3355,7 @@
       "correct_option": "A",
       "explanation": "Civil war between the king and Parliament began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3376,7 +3376,7 @@
       "correct_option": "C",
       "explanation": "Many civilian volunteers in small pleasure and fishing boats from Britain helped the Navy to rescue more than 300,000 men from the beaches around Dunkirk. The evacuation gave rise to the phrase 'the Dunkirk spirit'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3397,7 +3397,7 @@
       "correct_option": "C",
       "explanation": "In the 1830s and 1840s, a group called the Chartists campaigned for reform. They wanted six changes: for every man to have the vote;elections every year;for all regions to be equal in the electoral system; secret ballots; for any man to be able to stand as an MP; for MPs to be paid.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3418,7 +3418,7 @@
       "correct_option": "B",
       "explanation": "Shakespeare (1564-1616) was born in Stratford-upon-Avon, England.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3439,7 +3439,7 @@
       "correct_option": "C",
       "explanation": "Many of the great thinkers of the Enlightenment were Scottish. Adam Smith developed ideas about economics which are still referred to today.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3460,7 +3460,7 @@
       "correct_option": "A",
       "explanation": "Stonehenge, still stands in what is now the English county of Wiltshire. Stonehenge was probably a special gathering place for seasonal ceremonies.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3481,7 +3481,7 @@
       "correct_option": "A",
       "explanation": "York Minster had windows of stained glass, telling stories about the Bible and Christian saints.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3502,7 +3502,7 @@
       "correct_option": "D",
       "explanation": "Born in 1732, Arkwright originally trained and worked as a barber. He was able to dye hair and make wigs. When wigs became less popular, he started to work in textiles. He improved the original carding machine. Arkwright is particularly remembered for the efficient and profitable way that he ran his factories.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3523,7 +3523,7 @@
       "correct_option": "A",
       "explanation": "Civil war between the king and Parliament could not now be avoided and began in 1642. The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3544,7 +3544,7 @@
       "correct_option": "B",
       "explanation": "During the 18th century, new ideas about politics, philosophy and science were developed. This is often called 'the Enlightenment'.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3565,7 +3565,7 @@
       "correct_option": "B",
       "explanation": "HMS Victory, can be visited in Portsmouth. It was Admiral Nelson's ship.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3586,7 +3586,7 @@
       "correct_option": "D",
       "explanation": "In 1979, Margaret Thatcher became the first woman Prime Minister of the UK. She was the longest-serving Prime Minister of the 20th century, remaining in Office until 1990.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3607,7 +3607,7 @@
       "correct_option": "C",
       "explanation": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships. He was responsible for constructing the Great Western Railway and the Clifton Suspension Bridge.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3628,7 +3628,7 @@
       "correct_option": "D",
       "explanation": "Henry VIII was succeeded by his son Edward VI, who was strongly Protestant. During his reign, the Book of Common Prayer was written to be used in the Church of England.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3649,7 +3649,7 @@
       "correct_option": "A",
       "explanation": "All Scottish clans were required formally to accept William as king by taking an oath. The MacDonalds of Glencoe were late in taking the oath and were all killed.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3670,7 +3670,7 @@
       "correct_option": "A",
       "explanation": "The clans lost a lot of their power and influence after Culloden. Chieftains became landlords if they had the favour of the English king, and clansmen became tenants who had to pay for the land they used.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3691,7 +3691,7 @@
       "correct_option": "B",
       "explanation": "Britain's navy fought against combined French and Spanish fleets, winning the Battle of Trafalgar in 1805.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3712,7 +3712,7 @@
       "correct_option": "A",
       "explanation": "The Act of Union, known as the Treaty of Union in Scotland, was therefore agreed in 1707, creating the Kingdom of Great Britain.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3733,7 +3733,7 @@
       "correct_option": "D",
       "explanation": "In 1066, an invasion led by William, the Duke of Normandy (in what is now northern France), defeated Harold, the Saxon king of England, at the Battle of Hastings. Harold was killed in the battle. William became king of England and is known as William the Conqueror.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3754,7 +3754,7 @@
       "correct_option": "A",
       "explanation": "Divine Right of Kings' is the idea that the king was directly appointed by God to rule. The king should be able to act without having to seek approval from Parliament.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3775,7 +3775,7 @@
       "correct_option": "A",
       "explanation": "Between 1680 and 1720 many refugees called Huguenots came from France. They were Protestants and had been persecuted for their religion.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3796,7 +3796,7 @@
       "correct_option": "A",
       "explanation": "Julius Caesar led a Roman invasion of Britain in 55 BC. This was unsuccessful and for nearly 100 years Britain remained separate from the Roman Empire. In AD 43 the Emperor Claudius led the Roman army in a new invasion. This time, there was resistance from some of the British tribes but the Romans were successful in occupying almost all of Britain.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3817,7 +3817,7 @@
       "correct_option": "A",
       "explanation": "Castles were built in many places in Britain and Ireland, partly for defence. Today many are in ruins, although some, such as Windsor and Edinburgh, are still in use.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3838,7 +3838,7 @@
       "correct_option": "D",
       "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke and later became Prime Minister.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3859,7 +3859,7 @@
       "correct_option": "B",
       "explanation": "Slaves came primarily from West Africa. Travelling on British ships in horrible conditions, they were taken to America and the Caribbean, where they were made to work on tobacco and sugar plantations.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3880,7 +3880,7 @@
       "correct_option": "B",
       "explanation": "The people of the Bronze Age were accomplished metalworkers who made many beautiful objects in bronze and gold, including tools, ornaments and weapons.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3901,7 +3901,7 @@
       "correct_option": "D",
       "explanation": "Another aspect of change was self-government for former colonies. In 1947, independence was granted to nine countries, including India, Pakistan and Ceylon (now Sri Lanka). Other colonies in Africa, the Caribbean and the Pacific achieved independence over the next 20 years.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3922,7 +3922,7 @@
       "correct_option": "A",
       "explanation": "In 1922 Ireland became two countries. The six counties in the north which were mainly Protestant remained part of the UK under the name Northern Ireland. The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3943,7 +3943,7 @@
       "correct_option": "A",
       "explanation": "In England, judges developed 'common law' by a process of precedence (that is, following previous decisions) and tradition. In Scotland, the legal system developed slightly differently and laws were 'codified' (that is, written down).",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3964,7 +3964,7 @@
       "correct_option": "A",
       "explanation": "This war was called the Wars of the Roses, because the symbol of Lancaster was a red rose and the symbol of York was a white rose. The war ended with the Battle of Bosworth Field in 1485 the House of Lancaster won. The symbol of the House of Tudor was a red rose with a white rose inside it as a sign that the Houses of York and Lancaster were now allies.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -3985,7 +3985,7 @@
       "correct_option": "C",
       "explanation": "In 1918, women over the age of 30 were given voting rights and the right to stand for Parliament, partly in recognition of the contribution women made to the war effort during the First World War. Shortly before Emmeline's death in 1928, women were given the right to vote at the age of 21, the same as men.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -4006,7 +4006,7 @@
       "correct_option": "D",
       "explanation": "The first man to be called 'Prime Minister' was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -4027,7 +4027,7 @@
       "correct_option": "C",
       "explanation": "Brunel was originally from Portsmouth, England. He was an engineer who built tunnels, bridges, railway lines and ships.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -4048,7 +4048,7 @@
       "correct_option": "A",
       "explanation": "The Industrial Revolution was the rapid development of industry in Britain in the 18th and 19th centuries.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -4069,7 +4069,7 @@
       "correct_option": "A",
       "explanation": "Admiral Nelson's ship, HMS Victory, can be visited in Portsmouth",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -4090,7 +4090,7 @@
       "correct_option": "D",
       "explanation": "The war ended with the Battle of Bosworth Field in 1485. King Richard III of the House of York was killed in the battle and Henry Tudor, the leader of the House of Lancaster, became King Henry VII.",
       "image_e": null,
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
