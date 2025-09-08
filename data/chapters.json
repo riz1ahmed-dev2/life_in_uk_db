@@ -4,7 +4,7 @@
       "id": 1001,
       "title": "The values and principles of the UK",
       "icon": "http://flaticon.com/h.png",
-      "weight": 1002,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -13,7 +13,7 @@
       "id": 1002,
       "title": "What is the UK?",
       "icon": "https://drive.google.com/file/d/1d4U3Kl0njGFmAiWux43b5IZXFQGE9BWS/view?usp=drive_link",
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -22,7 +22,7 @@
       "id": 1003,
       "title": " A long and illustrious history",
       "icon": "https://drive.google.com/file/d/1zP3jazFmq4fM7cguXoW9CPJh98UZc2MR/view?usp=drive_link",
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -31,7 +31,7 @@
       "id": 1004,
       "title": "A modern, thriving society",
       "icon": "https://drive.google.com/file/d/12yaVP0emBdQaLmeooO1tu_EzWYK2d71O/view?usp=drive_link",
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
@@ -40,7 +40,7 @@
       "id": 1005,
       "title": "The UK government, the law and your role",
       "icon": "https://drive.google.com/file/d/1Su7VIPbV07JveTtBPhSNosPelgMosOnS/view?usp=drive_link",
-      "weight": null,
+      "weight": 1000,
       "extra": null,
       "created_date": "2025-09-08T21:09:31Z",
       "modified_date": "2025-09-08T21:09:31Z"
